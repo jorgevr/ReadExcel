@@ -1,0 +1,15 @@
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\ReadExcel_Text.dll
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\ReadExcel_Text.pdb
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\NPOI.dll
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\NPOI.OOXML.dll
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\NPOI.xml
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\NPOI.OOXML.xml
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\obj\Debug\ReadExcel_Text.csprojResolveAssemblyReference.cache
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\obj\Debug\ReadExcel_Text.dll
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\obj\Debug\ReadExcel_Text.pdb
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\ReadXLSWriteCSV.exe
+C:\Projects\ReadXLSWriteCSV\ReadExcel_Text\bin\Debug\ReadXLSWriteCSV.pdb

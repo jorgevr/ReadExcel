@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadXLSWriteCSV", "ReadXLSWriteCSV\ReadXLSWriteCSV.csproj", "{A89EAD95-F95C-4CDE-8DCA-796B0FE66A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadExcel_Text", "ReadExcel_Text\ReadExcel_Text.csproj", "{75F3A479-3025-4AAE-8FC5-D803C30DEE75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89EAD95-F95C-4CDE-8DCA-796B0FE66A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89EAD95-F95C-4CDE-8DCA-796B0FE66A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89EAD95-F95C-4CDE-8DCA-796B0FE66A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89EAD95-F95C-4CDE-8DCA-796B0FE66A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F3A479-3025-4AAE-8FC5-D803C30DEE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F3A479-3025-4AAE-8FC5-D803C30DEE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F3A479-3025-4AAE-8FC5-D803C30DEE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F3A479-3025-4AAE-8FC5-D803C30DEE75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
